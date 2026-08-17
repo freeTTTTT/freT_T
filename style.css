@@ -6,6 +6,7 @@ h1{
 
 h3{
   text-align:center;
+  padding:20px 20px;
   color: red;
 }
 
@@ -15,7 +16,7 @@ h2{
   
 }
 .entrar{
-  padding:10px 10px;
+  padding:20px 20px;
   border-radius:8px;
   background:gold;
   border-width: 1px;
@@ -24,7 +25,7 @@ h2{
   border:solid;
 }
 .ir{
-  padding:10px 10px;
+  padding:20x 20px;
   border-radius:8px;
   background:gold;
   color:black;
@@ -45,7 +46,7 @@ body {
 
 .descargar{
   background:blue;
-  padding:10px 10px;
+  padding:20px 20px;
   border-radius:8px;
   border-width:2px;
   color:white;
