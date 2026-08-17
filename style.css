@@ -8,28 +8,52 @@ h3{
   color: red;
 }
 
-p{
+h2{
   text-align:center;
+  color:red;
+  
 }
 .entrar{
-  padding: 10px 10px;
+  padding:10px 10px;
   border-radius:8px;
-  background:green;
-  border-width: 2px;
-  color:white;
-  border-color:skyblue;
+  background:gold;
+  border-width: 1px;
+  color:black;
+  border-color:black;
+  border:solid;
 }
 .ir{
   padding:10px 10px;
   border-radius:8px;
-  background:green;
-  color:white;
-  border-width:2px;
-  border-color:skyblue;
-  display: block;
+  background:gold;
+  color:black;
+  border-width:1px;
+  border-color:black;
+  display:block;
   margin:2px;
+  border:solid
 }
 
-body{
-
+body {
+  background-image: url("sesar.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
+.descargar{
+  background:blue;
+  padding:10px 10px;
+  border-radius:8px;
+  border-width:2px;
+  color:white;
+  display:block;
+  margin: 10px;
+  border:solid;
+  border-color:blue
+}
+.foto{
+  border:3px solid black;
+  border-radius:10px;
+  }
